@@ -1,5 +1,5 @@
 {
-    "name": "hello-node",
+    "name": "This is my first App deployment",
     "description": "Hello World NodeJs App",
     "repository": "https://github.com/ddurgesh28/hw-hello-node",
     "keywords": ["node", "heroku"],
